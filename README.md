@@ -8,22 +8,10 @@
 
 <p align="center">
 	
-  <img src="https://img.shields.io/static/v1?label=HTML&message=70.1%&color=F16529&style=<STYLE>&logo=<LOGO>">
-  <img src="https://img.shields.io/static/v1?label=CSS&message=29.9%&color=D4EDDA&style=<STYLE>&logo=<LOGO>">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/FlavioInacio-jf/ccontroltt">
-
-  <a href="https://github.com/FlavioInacio-jf/ccontroltt/issues">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/FlavioInacio-jf/ccontroltt">
-  </a>
-  
-  <a href="https://github.com/FlavioInacio-jf/ccontroltt/network">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/FlavioInacio-jf/ccontroltt">
-  </a>
+  <img src="https://img.shields.io/static/v1?label=Html&message=2.0%&color=835afd&style=<STYLE>&logo=<LOGO>">
+  <img src="https://img.shields.io/static/v1?label=Scss&message=29.2%&color=835afd&style=<STYLE>&logo=<LOGO>">
+  <img src="https://img.shields.io/static/v1?label=TypeScript&message=68.8%&color=835afd&style=<STYLE>&logo=<LOGO>">
     
-   <a href="https://github.com/FlavioInacio-jf/ccontroltt/blob/master/LICENSE">
-    <img alt="GitHub license" src="https://img.shields.io/github/license/FlavioInacio-jf/ccontroltt">
-  </a>
 </p>
 
 
