@@ -29,7 +29,7 @@
 
 
 <h4 align="center"> 
-	🚧  ControlTT 👨🏾‍💻 Em construção... 🚀 🚧
+	🚧  Letmeask 👨🏾‍💻 Finalizado... 🚀 🚧
 </h4>
 
 <p align="center">
@@ -90,26 +90,21 @@ $ yarn start
 As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Website** 
-- 
+- [React.js](https://pt-br.reactjs.org/)
+- Firebase(https://firebase.google.com/?hl=pt)
+- TypeScript(https://www.typescriptlang.org/)
+- Scss(https://sass-lang.com/)
 
 #### [](https://github.com/FlavioInacio-jf/ControlTT#utilit%C3%A1rios)**Utilitários**
 
--   Protótipo:  **[Adobe XD](https://www.adobe.com/br/products/xd.html)** 
+-   Browser: **[Google Chrome](https://www.google.com/intl/pt-BR/chrome/)**
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)** 
 -   Ícones:  **[Bootstrap Icons](https://icons.getbootstrap.com/)**
--   Fontes:  **[Arial](https://www.fonts.com/font/monotype/arial)**,  **[Helvetica](https://www.fonts.com/font/linotype/helvetica?QueryFontType=Web&src=GoogleWebFonts)**
+-   Fontes:  **[Roboto](https://fonts.google.com/specimen/Roboto)**,  **[Poppins](https://fonts.google.com/specimen/Poppins)**
 
 
 ---
 
-## 💪 Como contribuir para o projeto
-
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-4. Envie as suas alterações: `git push origin my-feature`
-
----
 
 ## 🦸 Autor
  <img style="border-radius: 50%;" src="https://i.ibb.co/B26fQkK/capture-Fl-vio-In-cio.jpg" width="100px;" alt=""/>
