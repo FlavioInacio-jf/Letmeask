@@ -1,10 +1,12 @@
-<h1 align="center">
-	<img src="" alt="Home Letmeask">
-     📱 <a href="#" alt="Letmeask"> Letmeask </a>
-</h1>
 
+<h1 align="center">
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/193310286@N05/51273033971/in/dateposted-public/" title="screenshot">
+	<img src="https://live.staticflickr.com/65535/51273033971_83bde84d2d_z.jpg" width="640" height="324" alt="screenshot"></a>
+	
+	📱 Letmeask
+</h1>
 <h3 align="center">
-    🌱 Descrição 💚
+    🌱 Entre em uma sala ja existente ou crie uma nova sala utlizando a autênticação com o Google. Faça perguntas, curta, ou até mesmo se você for o criador, exclua ou destaque  	as perguntas. Este é o objetivo do Letmeask!! Site desenvolvido utilizando o React.js.💚
 </h3>
 
 <p align="center">
