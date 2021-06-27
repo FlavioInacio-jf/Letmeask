@@ -1,46 +1,130 @@
-# Getting Started with Create React App
+<h1 align="center">
+     📱 <a href="#" alt="site do controltt"> Pizzaria </a>
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 align="center">
+    🌱 Descrição 💚
+</h3>
 
-## Available Scripts
+<p align="center">
+	
+  <img src="https://img.shields.io/static/v1?label=HTML&message=70.1%&color=F16529&style=<STYLE>&logo=<LOGO>">
+  <img src="https://img.shields.io/static/v1?label=CSS&message=29.9%&color=D4EDDA&style=<STYLE>&logo=<LOGO>">
 
-In the project directory, you can run:
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/FlavioInacio-jf/ccontroltt">
 
-### `yarn start`
+  <a href="https://github.com/FlavioInacio-jf/ccontroltt/issues">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/FlavioInacio-jf/ccontroltt">
+  </a>
+  
+  <a href="https://github.com/FlavioInacio-jf/ccontroltt/network">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/FlavioInacio-jf/ccontroltt">
+  </a>
+    
+   <a href="https://github.com/FlavioInacio-jf/ccontroltt/blob/master/LICENSE">
+    <img alt="GitHub license" src="https://img.shields.io/github/license/FlavioInacio-jf/ccontroltt">
+  </a>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+<h4 align="center"> 
+	🚧  ControlTT 👨🏾‍💻 Em construção... 🚀 🚧
+</h4>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-autor">Autor</a> • 
+ <a href="#user-content--licença">Licença</a>
+</p>
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 💻 Sobre o projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+♻️ Controle de estufa feito em Html, Css.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `yarn eject`
+## ⚙️ Funcionalidades
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [x]
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## 🚀 Como executar o projeto
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+
+#### 🧭 Rodando a aplicação web 
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/FlavioInacio-jf/letmeask
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd letmeask
+
+# Instale as depêndencias
+$ yarn
+
+# Iniciar o projeto(O app estará deponivel no  http://localhost:3000)
+$ yarn start
+```
+
+---
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+#### **Website** 
+- 
+
+#### [](https://github.com/FlavioInacio-jf/ControlTT#utilit%C3%A1rios)**Utilitários**
+
+-   Protótipo:  **[Adobe XD](https://www.adobe.com/br/products/xd.html)** 
+-   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)** 
+-   Ícones:  **[Bootstrap Icons](https://icons.getbootstrap.com/)**
+-   Fontes:  **[Arial](https://www.fonts.com/font/monotype/arial)**,  **[Helvetica](https://www.fonts.com/font/linotype/helvetica?QueryFontType=Web&src=GoogleWebFonts)**
+
+
+---
+
+## 💪 Como contribuir para o projeto
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+
+---
+
+## 🦸 Autor
+ <img style="border-radius: 50%;" src="https://i.ibb.co/B26fQkK/capture-Fl-vio-In-cio.jpg" width="100px;" alt=""/>
+ <br />
+ <sub><b>Flávio Inácio</b></sub>
+ <br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-Flávio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fl%C3%A1vio-in%C3%A1cio/)](https://www.linkedin.com/in/fl%C3%A1vio-in%C3%A1cio/) 
+[![Gmail Badge](https://img.shields.io/badge/-jflavioinacio22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jflavioinacio@gmail.com)](mailto:jflavioinacio22@gmail.com)
+
+---
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
+
+Feit por Flávio Inácio 👋🏽 [Entre em contato!](https://www.linkedin.com/in/fl%C3%A1vio-in%C3%A1cio/)
+
