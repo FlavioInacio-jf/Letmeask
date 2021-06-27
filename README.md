@@ -34,14 +34,16 @@
 
 ## 💻 Sobre o projeto
 
-Letmeask.
+O projeto Letmeask foi desenvolvido durante a NLW Together da Rocketseat. A aplicação e feita utilizando o ReactJS e o conceito de SPA(Single page aplication). O Firebase foi utilizado para fazer a autenticação com o Google e para utlizar o Realtime Database.
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- [x]
-
+- Criar sala
+- Fazer perguntas e curtir perguntas favoritas
+- Excluir e destacar perguntas(Administrador)
+- Encerrar sala(Administrador)
 ---
 
 
