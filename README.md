@@ -90,10 +90,10 @@ $ yarn start
 As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Website** 
-- [React.js](https://pt-br.reactjs.org/)
-- Firebase(https://firebase.google.com/?hl=pt)
-- TypeScript(https://www.typescriptlang.org/)
-- Scss(https://sass-lang.com/)
+- **[React.js](https://pt-br.reactjs.org/)**
+- **[Firebase](https://firebase.google.com/?hl=pt)**
+- **[TypeScript](https://www.typescriptlang.org/)**
+- **[Scss](https://sass-lang.com/)**
 
 #### [](https://github.com/FlavioInacio-jf/ControlTT#utilit%C3%A1rios)**Utilitários**
 
