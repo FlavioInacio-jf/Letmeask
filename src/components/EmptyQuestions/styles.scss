@@ -1,0 +1,31 @@
+#content {
+  display: flex;
+  flex-direction: column;
+  max-width: 17.75rem;
+  margin: 0 auto;
+  text-align: center;
+
+  > img {
+    margin: 0 auto;
+    max-width: 9.37rem;
+    margin-bottom: 1rem;
+  }
+
+  span {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 1.12rem;
+    color: #29292E;
+    margin-bottom: 0.62rem;
+
+    &:last-child {
+      font-family: 'Roboto', sans-serif;
+      font-weight: 400;
+      font-size: 0.87rem;
+      color: #737380;
+      margin: 0 auto;
+      line-height: 1;
+    }
+
+  }
+}
